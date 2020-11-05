@@ -686,55 +686,53 @@ main {
     width: 100%;
 }
 
+
+
 .text-container1 {
     position: absolute;
-    top: 0;
     height: 15%;
     width: 35%;
-    top: 16%;
+    top: 20%;
     left: 15%;
     text-align: center;
 }
 
 .text-container2 {
     position: absolute;
-    top: 0;
     height: 15%;
     width: 30%;
-    top: 20%;
+    top: 22%;
     left: 45%;
     text-align: center;
 }
 
 .text-container3 {
     position: absolute;
-    top: 0;
     height: 15%;
     width: 30%;
-    top: 52%;
+    top: 53%;
     left: 8%;
     text-align: center;
 }
 
 .text-container4 {
     position: absolute;
-    top: 0;
     height: 15%;
     width: 30%;
-    top: 52%;
+    top: 53%;
     left: 54%;
     text-align: center;
 }
 
 .text-container5 {
     position: absolute;
-    top: 0;
     height: 15%;
     width: 30%;
-    top: 70%;
+    top: 72%;
     left: 31%;
     text-align: center;
 }
+
 
 .text-container6 {
     position: absolute;
