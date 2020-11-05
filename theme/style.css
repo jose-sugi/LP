@@ -375,7 +375,7 @@ main {
 
 .container_bottom {
     height: 130px;
-    margin-top: 4rem;
+    margin-top: 24vh;
     position: relative;
 }
 
@@ -1239,7 +1239,8 @@ main {
 	    margin-top: 10%;
 	}
 	.container_bottom {
-    	height: 52px;
+        height: 52px;
+        margin-top: 7vh;
     }
     .top_text {
     	font-size: 12px;
