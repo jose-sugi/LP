@@ -355,7 +355,7 @@ main {
     padding: 4% 4%;
     width: 79%;
     color: green;
-    background-color: white;
+    background-color: white; 
     margin-left: 2%;
 }
 
@@ -375,7 +375,7 @@ main {
 
 .container_bottom {
     height: 130px;
-    margin-top: 14rem;
+    margin-top: 4rem;
     position: relative;
 }
 
