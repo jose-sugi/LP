@@ -373,7 +373,7 @@ main {
     text-shadow: 1px 1px 8px #bdd296, -1px 1px 8px #bdd296, 1px -1px 8px #bdd296, -1px -1px 8px #bdd296;
 }
 
-.container_bottom {
+.container_bottom { 
     height: 130px;
     margin-top: 24vh;
     position: relative;
