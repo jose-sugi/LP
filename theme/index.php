@@ -210,25 +210,7 @@
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/man.png" alt="男性" class="six-img-left">
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/home.png" alt="家" class="six-img-bottom">
                 <div class="circle">
-                    <img src="<?php  echo get_template_directory_uri(); ?>/images/circle.png" alt="円" class="six-img-circle">
-                    <div class="text-container1">
-                        <p class="circle-text">不動産の<br>フェアートレード</p>
-                    </div>
-                    <div class="text-container2">
-                        <p class="circle-text">弁護士</p>
-                    </div>
-                    <div class="text-container3">
-                        <p class="circle-text">不動産業者</p>
-                    </div>
-                    <div class="text-container4">
-                        <p class="circle-text">司法書士</p>
-                    </div>
-                    <div class="text-container5">
-                        <p class="circle-text">税理士</p>
-                    </div>
-                    <div class="text-container6">
-                        <p class="circle-text-in">トータル<br>サポート<br><span class="s-circle">相談無料</span></p>
-                    </div>
+                <img src="<?php  echo get_template_directory_uri(); ?>/images/circle.png" alt="円" class="six-img-circle">
                 </div>
                 <p class="six-bottom"><span
                         class="s-bottom">「不動産の保有」や「不動産の売却」には、<br>さまざまな専門知識が必要になります。<br>弊社ではトータルサポートといたしまして、<br>あらゆる分野の専門家を<br>無料でご紹介させていただきます。</span>

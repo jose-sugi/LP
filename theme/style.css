@@ -678,71 +678,17 @@ main {
 .circle {
     position: absolute;
     top: 2%;
-    left: 7%;
+    margin: 0 5%;
 }
 
 .six-img-circle {
     position: relative;
-    width: 100%;
+    width: 83%;
 }
 
 
 
-.text-container1 {
-    position: absolute;
-    height: 15%;
-    width: 35%;
-    top: 20%;
-    left: 15%;
-    text-align: center;
-}
 
-.text-container2 {
-    position: absolute;
-    height: 15%;
-    width: 30%;
-    top: 22%;
-    left: 45%;
-    text-align: center;
-}
-
-.text-container3 {
-    position: absolute;
-    height: 15%;
-    width: 30%;
-    top: 53%;
-    left: 8%;
-    text-align: center;
-}
-
-.text-container4 {
-    position: absolute;
-    height: 15%;
-    width: 30%;
-    top: 53%;
-    left: 54%;
-    text-align: center;
-}
-
-.text-container5 {
-    position: absolute;
-    height: 15%;
-    width: 30%;
-    top: 72%;
-    left: 31%;
-    text-align: center;
-}
-
-
-.text-container6 {
-    position: absolute;
-    top: 0;
-    height: 15%;
-    width: 30%;
-    top: 34%;
-    left: 31%;
-    text-align: center;
-}
 
 .circle-text {
     margin: auto;
