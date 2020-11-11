@@ -423,11 +423,12 @@ main {
 }
 
 .center_text_two {
-    font-size: 177%;
+    /* font-size: 177%; */
     border-bottom: 3px solid #383838;
     font-weight: 700;
-    width: 91%;
+    width: 68%;
     float: right;
+    text-align: right;
 }
 
 .text {
@@ -486,10 +487,24 @@ main {
 }
 
 .four {
-    margin-top: 13%;
+    margin-top: 13%; 
 }
 
 .top {
+    text-align: center;
+    font-size: 300%;
+    padding: 7%;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    padding: 20px 0 15px;
+    border-top: solid 2px;
+    border-bottom: solid 2px;
+    width: 36%;
+    margin: 0 auto 35px;
+}
+
+.top1 {
     text-align: center;
     font-size: 300%;
     padding: 7%;
@@ -1299,4 +1314,25 @@ main {
         height: auto;
         position: relative;
     }
+
+    .center_text_two {
+        font-size: 16px;
+        border-bottom: 3px solid #383838;
+        font-weight: 700;
+        width: 339px;
+        float: right;
+    }
+
+    .top1 {
+        font-size: 28px;
+        /* margin-top: 212px; */
+        width: 175px;
+        position: relative;
+        text-align: center;
+        padding: 20px 0 15px;
+        border-top: solid 2px;
+        border-bottom: solid 2px;
+        margin: 177px auto 35px;
+    }
+
 }
