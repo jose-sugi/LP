@@ -973,7 +973,6 @@ main {
     .text {
         background-color: rgba(255, 255, 255, 0.8);
         background-blend-mode: lighten;
-        height: 168px;
         border-radius: 20px;
         border: 2px solid #607d8b;
     }
@@ -1044,12 +1043,12 @@ main {
         width: 55%;
         font-size: 17px;
         line-height: 131%;
-        margin-top: 28px;
+        margin-top: 14px;
     }
 
     .four-img3 {
         width: 100%;
-        margin-top: 41px;
+        margin-top: 104px;
     }
 
     .four-text3 {
@@ -1060,7 +1059,7 @@ main {
         width: 57%;
         font-size: 17px;
         line-height: 131%;
-        margin-top: 35px;
+        margin-top: 55px;
     }
     .five-container {
     position: relative;
@@ -1138,7 +1137,7 @@ main {
     .free_small {
         position: absolute;
         font-size: 1.6rem;
-        top: -30%;
+        top: 3px;
         /* letter-spacing: 1.5px; */
         left: 3%;
     }
@@ -1153,11 +1152,12 @@ main {
 	    font-size: 16px;
         width: 44%;
         line-height: 19px;
+        margin-top: 0px;
 	}
 	.img_right {
         font-size: 16px;
         line-height: 16px;
-        width: 96px;
+        width: 96px;    margin: 10px 0px 0px 0px;
 	}
 	.img_right2 {
         font-size: 16px;
@@ -1170,6 +1170,7 @@ main {
 	}
 	.img_right2_2 {
         line-height: 19px;
+        width: 86px;
         font-size: 16px;
     }
     .top_container_b {
@@ -1229,7 +1230,7 @@ main {
     }
 
     .six-bottom{
-        font-size: 1.7vh;
+        font-size: 17px;
     }
 
     .five-container-bottom{
@@ -1285,5 +1286,17 @@ main {
     .center-container {
         margin-bottom: 128px;
         margin-top: 100px;
+    }
+
+    .six-img-bottom {
+        width: 80%;
+        opacity: 0.75;
+        height: 333px;
+    }
+
+    .harf {
+        width: 95%;
+        height: auto;
+        position: relative;
     }
 }
