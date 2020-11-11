@@ -108,7 +108,7 @@
         </div>
         <div class="center-container">
             <p class="center_text">あなたの不動産の売却は</p>
-            <p class="center_text_two"><span class="center_main">”不動産のフェアトレード”</span>に安心してお任せください‼</p>
+            <p class="center_text_two"><span class="center_main">”不動産のフェアトレード”</span><br>に安心してお任せください‼</p>
         </div>
         </div>
         
