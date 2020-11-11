@@ -160,7 +160,7 @@
 
         </div>
         <div class="five">
-            <h2 class="top">ご依頼の流れ</h2>
+            <h2 class="top1">ご依頼の流れ</h2>
             <div class="five-container">
                 <p class="five-text in">オーナーさまから不動産のフェアートレードに<br>売却査定のご依頼</p>
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/arrows.png" alt="" class="five-img">
