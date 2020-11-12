@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>ここにiタイトル</title>
+    <title>ここにタイトル</title>
 
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="<?php  echo get_template_directory_uri(); ?>/style.css">
@@ -23,7 +23,7 @@
         <div class="main_container">
             <div class="main" style="font-family: serif;">
             <div class="title_img">
-                <h1 class="main_maintitle fontcolor fonttype">不動産の<br>フェアトレード</h1>
+                <h1 class="main_maintitle fontcolor fonttype">aa不動産の<br>フェアトレード</h1>
             <p class="main_subtitle fontcolor fonttype bt">公平な取引をモットーにあなたの不動産売却の最高値をご提案します</p>
             <p class="main_subtitle fontcolor fonttype no">公平な取引をモットーに<br>あなたの不動産売却の最高値をご提案します</p>
             </div>
