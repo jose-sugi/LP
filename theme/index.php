@@ -23,11 +23,11 @@
         <div class="main_container">
             <div class="main" style="font-family: serif;">
             <div class="title_img">
-                <h1 class="main_maintitle fontcolor fonttype">aaaの<br>フェアトレード</h1>
+                <h1 class="main_maintitle fontcolor fonttype">不動産の<br>フェアトレード</h1>
             <p class="main_subtitle fontcolor fonttype bt">公平な取引をモットーにあなたの不動産売却の最高値をご提案します</p>
             <p class="main_subtitle fontcolor fonttype no">公平な取引をモットーに<br>あなたの不動産売却の最高値をご提案します</p>
             </div>
-
+            
             <h2 class="title_bottom">売却査定不動産<br>
                 <span class="subtitle">大募集中！</span></h2>
             <div class="picture">
@@ -38,7 +38,7 @@
                 <div class="harf_down">
                     <p class="free_small">売買取引の成立後も仲介手数料はかかりません</p>
                 </div>
-
+                
             </div>
             <p class="free_under">まずはお気軽に売却査定依頼を！</p>
         </div>
@@ -53,7 +53,7 @@
                 </div>
                 <div class="container_right">
                     <img src="<?php  echo get_template_directory_uri(); ?>/images/sankaku.png" class="sankaku_right">
-                    <p class="img_right">査定結果<br>（１週間後）</p>
+                    <p class="img_right">査定結果<br>（１週間後）</p> 
                 </div>
             </div>
             <p class="warp_type2">不動産の<br>フェアートレード</p>
@@ -65,7 +65,7 @@
                 </div>
                 <div class="container_right">
                     <img src="<?php  echo get_template_directory_uri(); ?>/images/sankaku.png" class="sankaku_right">
-                    <p class="img_right2">査定結果</p>
+                    <p class="img_right2">査定結果</p> 
                 </div>
             </div>
             <p class="warp_theme3">全国の不動産会社</p>
@@ -80,7 +80,7 @@
                 </div>
                 <div class="container_right">
                     <img src="<?php  echo get_template_directory_uri(); ?>/images/sankaku.png" class="sankaku_right2">
-                    <p class="img_right2_2">入札結果<br>（10日後）</p>
+                    <p class="img_right2_2">入札結果<br>（10日後）</p> 
                 </div>
             </div>
             <div class="top_container2">
@@ -92,7 +92,7 @@
                 </div>
                 <div class="container_right2">
                     <p class="warp_theme2">売却査定を提出した不動産会社に<br>最高値を伝えたうえで再入札</p>
-                </div>
+                </div> 
                 </div>
             </div>
             <div>
@@ -111,8 +111,8 @@
             <p class="center_text_two"><span class="center_main">”不動産のフェアトレード”</span><br>に安心してお任せください‼</p>
         </div>
         </div>
-
-
+        
+        
 
 
         <div class="text pic">
@@ -121,7 +121,7 @@
         </div>
         <div class="text pic1">
             <p class="texttitle">売却時仲介手数料不要</p>
-            <p class="contents top_text">売却価格×３％＋６万円（税別）が不要※売却価格5,000万円の場合仲介手数料156万円（税別）</p>
+            <p class="contents top_text">売却価格×３％＋６万円（税別）が不要<br>※売却価格5,000万円の場合仲介手数料156万円（税別）</p>
         </div>
         <div class="text pic2">
             <p class="texttitle">契約不適合責任が免責</p>
@@ -133,7 +133,7 @@
         </div>
         <div class="text pic4">
             <p class="texttitle">売却査定＝売却ではありません</p>
-            <p class="contents">売却査定金額を見てから、実際に入札で売却するか否かを決定できます。よって、とりあえず売却金額が知りたい時にも気軽に売却査定依頼ができる。</p>
+            <p class="contents">売却査定金額を見てから、実際に入札で売却するか否かを決定できます。<br>よって、とりあえず売却金額が知りたい時にも気軽に売却査定依頼ができる。</p>
         </div>
         </div>
 
@@ -149,7 +149,7 @@
                     <img src="<?php  echo get_template_directory_uri(); ?>/images/oldcouple.png" alt="" class="four-img2">
                     <p class="four-text2">とりあえず査定書の依頼から始めましたが、<br>最終的に自分たちで考えていた以上の金額で<br>売却できたので、本当に依頼して良かったです。</p>
                     <img src="<?php  echo get_template_directory_uri(); ?>/images/oldman.png" alt="" class="four-img3">
-                    <p class="four-text3">依頼したきっかけは公平さを前面に出されていたところ。今まであまり不動産会社さんのことを信用していませんでしたが、この不動産のフェアトレードさんのシステムはまさに公明正大で非常に信用できました。</p>
+                    <p class="four-text3">依頼したきっかけは公平さを前面に出されていたところ。今まであまり不動産会社さんのことを信用していませんでしたが、この不動産のフェアトレードさんのシステムはまさに公明正大で非常に信用できました。</p> 
                 </div>
         </div>
 
@@ -186,7 +186,7 @@
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/arrows.png" alt="" class="five-img">
             </div>
             <div class="five-container">
-                <p class="five-text">売却査定書の提出があった不動産会社による再入札（３日間）</p>
+                <p class="five-text">売却査定書の提出があった不動産会社による<br>再入札（３日間）</p>
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/arrows.png" alt="" class="five-img">
             </div>
             <div class="five-container">
@@ -217,7 +217,7 @@
                 </p>
             </div>
         </div>
-
+    
     </main>
 
 </body>
