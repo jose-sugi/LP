@@ -213,7 +213,7 @@
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/circle.png" alt="円" class="six-img-circle">
                 </div>
                 <p class="six-bottom"><span
-                        class="s-bottom">「不動産の保有」や「不動産の売却」には、さまざまな専門知識が必要になります。弊社ではトータルサポートといたしまして、あらゆる分野の専門家を無料でご紹介させていただきます。</span>
+                        class="s-bottom">「不動産の保有」や「不動産の売却」には、さまざまな専門知識が必要になります。<br>弊社ではトータルサポートといたしまして、あらゆる分野の専門家を無料でご紹介させていただきます。</span>
                 </p>
             </div>
         </div>
