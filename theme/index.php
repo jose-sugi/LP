@@ -28,7 +28,7 @@
             <p class="main_subtitle fontcolor fonttype no">公平な取引をモットーに<br>あなたの不動産売却の最高値をご提案します</p>
             </div>
 
-            <h2 class="title_bottom">売却査定不動産aa<br>
+            <h2 class="title_bottom">売却査定不動産aaaaa<br>
                 <span class="subtitle">大募集中！</span></h2>
             <div class="picture">
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/harf.png" class="harf">
