@@ -23,12 +23,12 @@
         <div class="main_container">
             <div class="main" style="font-family: serif;">
             <div class="title_img">
-                <h1 class="main_maintitle fontcolor fonttype">aa不動産の<br>フェアトレード</h1>
+                <h1 class="main_maintitle fontcolor fonttype">不動産の<br>フェアトレード</h1>
             <p class="main_subtitle fontcolor fonttype bt">公平な取引をモットーにあなたの不動産売却の最高値をご提案します</p>
             <p class="main_subtitle fontcolor fonttype no">公平な取引をモットーに<br>あなたの不動産売却の最高値をご提案します</p>
             </div>
 
-            <h2 class="title_bottom">売却査定不動産あああああああ<br>
+            <h2 class="title_bottom">売却査定不動産<br>
                 <span class="subtitle">大募集中！</span></h2>
             <div class="picture">
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/harf.png" class="harf">
