@@ -56,7 +56,7 @@
                     <p class="img_right">査定結果<br>（１週間後）</p> 
                 </div>
             </div>
-            <p class="warp_type2">不動産のフェアートレード</p>
+            <p class="warp_type2">不動産の<br>フェアートレード</p>
             <div class="top_container">
                 <div class="container_left">
                     <img src="<?php  echo get_template_directory_uri(); ?>/images/sankaku.png" class="sankaku_left">
@@ -178,7 +178,7 @@
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/arrows.png" alt="" class="five-img">
             </div>
             <div class="five-container">
-                <p class="five-text">入札で売却する場合、不動産のフェアートレードから<br>全国の不動産会社に入札要綱を配布</p>
+                <p class="five-text">入札で売却する場合、<br>不動産のフェアートレードから全国の不動産会社に入札要綱を配布</p>
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/arrows.png" alt="" class="five-img">
             </div>
             <div class="five-container">
@@ -202,7 +202,7 @@
         <div class="six">
             <div class="six-container">
                 <p class="six-container-text1">不動産の有効活用のご提案も<br>お任せください。</p>
-                <p class="six-container-text2">不動産の売却だけではなく不動産の有効活用のご提案も<br>不動産のフェアートレードにお任せください。</p>
+                <p class="six-container-text2">不動産の売却だけではなく<br>不動産の有効活用のご提案も不動産のフェアートレードにお任せください。</p>
             </div>
             <p class="six-container-text1 ex">不動産にまつわる各種専門家を<br><span class="six-text1">無料</span>でご紹介します。</p>
             <div class="six-img">
@@ -213,7 +213,7 @@
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/circle.png" alt="円" class="six-img-circle">
                 </div>
                 <p class="six-bottom"><span
-                        class="s-bottom">「不動産の保有」や「不動産の売却」には、<br>さまざまな専門知識が必要になります。<br>弊社ではトータルサポートといたしまして、<br>あらゆる分野の専門家を<br>無料でご紹介させていただきます。</span>
+                        class="s-bottom">「不動産の保有」や「不動産の売却」には、さまざまな専門知識が必要になります。弊社ではトータルサポートといたしまして、あらゆる分野の専門家を無料でご紹介させていただきます。</span>
                 </p>
             </div>
         </div>
