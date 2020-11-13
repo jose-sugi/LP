@@ -23,7 +23,7 @@
         <div class="main_container">
             <div class="main" style="font-family: serif;">
             <div class="title_img">
-                <h1 class="main_maintitle fontcolor fonttype">不動<br>フェアトレード</h1>
+                <h1 class="main_maintitle fontcolor fonttype">不動産の<br>フェアトレード</h1>
             <p class="main_subtitle fontcolor fonttype bt">公平な取引をモットーにあなたの不動産売却の最高値をご提案します</p>
             <p class="main_subtitle fontcolor fonttype no">公平な取引をモットーに<br>あなたの不動産売却の最高値をご提案します</p>
             </div>
