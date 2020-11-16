@@ -11,7 +11,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>ここにタイトル</title>
+
+    <title>修正</title>
+
 
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="<?php  echo get_template_directory_uri(); ?>/style.css">
@@ -29,6 +31,9 @@
             </div>
 
             <h2 class="title_bottom">売却査定不動産<br>
+
+
+
                 <span class="subtitle">大募集中！</span></h2>
             <div class="picture">
                 <img src="<?php  echo get_template_directory_uri(); ?>/images/harf.png" class="harf">
