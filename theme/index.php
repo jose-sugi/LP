@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>ここにタイトル</title>
+    <title>ここにタイトル　杉澤</title>
 
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="<?php  echo get_template_directory_uri(); ?>/style.css">
@@ -27,7 +27,7 @@
             <p class="main_subtitle fontcolor fonttype bt">公平な取引をモットーにあなたの不動産売却の最高値をご提案します</p>
             <p class="main_subtitle fontcolor fonttype no">公平な取引をモットーに<br>あなたの不動産売却の最高値をご提案します</p>
             </div>
-            
+
             <h2 class="title_bottom">売却査定不動産<br>
                 <span class="subtitle">大募集中！</span></h2>
             <div class="picture">
@@ -38,7 +38,7 @@
                 <div class="harf_down">
                     <p class="free_small">売買取引の成立後も仲介手数料はかかりません</p>
                 </div>
-                
+
             </div>
             <p class="free_under">まずはお気軽に売却査定依頼を！</p>
         </div>
@@ -53,7 +53,7 @@
                 </div>
                 <div class="container_right">
                     <img src="<?php  echo get_template_directory_uri(); ?>/images/sankaku.png" class="sankaku_right">
-                    <p class="img_right">査定結果<br>（１週間後）</p> 
+                    <p class="img_right">査定結果<br>（１週間後）</p>
                 </div>
             </div>
             <p class="warp_type2">不動産の<br>フェアートレード</p>
@@ -65,7 +65,7 @@
                 </div>
                 <div class="container_right">
                     <img src="<?php  echo get_template_directory_uri(); ?>/images/sankaku.png" class="sankaku_right">
-                    <p class="img_right2">査定結果</p> 
+                    <p class="img_right2">査定結果</p>
                 </div>
             </div>
             <p class="warp_theme3">全国の不動産会社</p>
@@ -80,7 +80,7 @@
                 </div>
                 <div class="container_right">
                     <img src="<?php  echo get_template_directory_uri(); ?>/images/sankaku.png" class="sankaku_right2">
-                    <p class="img_right2_2">入札結果<br>（10日後）</p> 
+                    <p class="img_right2_2">入札結果<br>（10日後）</p>
                 </div>
             </div>
             <div class="top_container2">
@@ -92,7 +92,7 @@
                 </div>
                 <div class="container_right2">
                     <p class="warp_theme2">売却査定を提出した不動産会社に<br>最高値を伝えたうえで再入札</p>
-                </div> 
+                </div>
                 </div>
             </div>
             <div>
@@ -111,8 +111,8 @@
             <p class="center_text_two"><span class="center_main">”不動産のフェアトレード”</span><br>に安心してお任せください‼</p>
         </div>
         </div>
-        
-        
+
+
 
 
         <div class="text pic">
@@ -149,7 +149,7 @@
                     <img src="<?php  echo get_template_directory_uri(); ?>/images/oldcouple.png" alt="" class="four-img2">
                     <p class="four-text2">とりあえず査定書の依頼から始めましたが、<br>最終的に自分たちで考えていた以上の金額で<br>売却できたので、本当に依頼して良かったです。</p>
                     <img src="<?php  echo get_template_directory_uri(); ?>/images/oldman.png" alt="" class="four-img3">
-                    <p class="four-text3">依頼したきっかけは公平さを前面に出されていたところ。今まであまり不動産会社さんのことを信用していませんでしたが、この不動産のフェアトレードさんのシステムはまさに公明正大で非常に信用できました。</p> 
+                    <p class="four-text3">依頼したきっかけは公平さを前面に出されていたところ。今まであまり不動産会社さんのことを信用していませんでしたが、この不動産のフェアトレードさんのシステムはまさに公明正大で非常に信用できました。</p>
                 </div>
         </div>
 
@@ -217,7 +217,7 @@
                 </p>
             </div>
         </div>
-    
+
     </main>
 
 </body>
